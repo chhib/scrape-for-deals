@@ -28,32 +28,31 @@ const bigquery = new BigQuery();
     
     let productsOnPage = [];
     try {
-        await page.waitForSelector(".PT_Wrapper.col-xs-6.col-sm-4.col-md-4.col-lg-3.gutter-md-T", { timeout:3000 });
+        await page.waitForSelector(".css-io41l7-Box-StyledProductListItem-ProductGridItem.e1ukcukj0", { timeout:3000 });
         
         // autoscroll to capture all images.
         const lastPosition = await scrollPageToBottom(page, {
-        size: 500,
-        delay: 250
+            size: 500,
+            delay: 250
         })
 
         // Extract the results from the page.
         productsOnPage = await page.evaluate(() => {
-          return [...document.querySelectorAll(".PT_Wrapper.col-xs-6.col-sm-4.col-md-4.col-lg-3.gutter-md-T")].map(product => { 
-        
+          return [...document.querySelectorAll(".css-io41l7-Box-StyledProductListItem-ProductGridItem.e1ukcukj0")].map(product => { 
             const prices = {},
-                anchor = product.querySelector("a"),
-                img = product.querySelector(".PT_Bildruta img:first-child"),
-                title = product.querySelector('.PT_Faktaruta').innerText.replaceAll("\n", " ");
-			product.querySelectorAll(".PT_PriceWrap span.PT_PrisKampanj.font-m.text-red, .PT_PriceWrap span.PT_PrisOrdinarie.font-m.lowlight").forEach(((r, t) => {
-                prices[t] = parseInt(r.innerHTML.replace("rek.pris fr. ", "").replace("fr. ", "").replace(" kr", "").replace(" ", ""), 10)
-            }))
+                anchor = product.querySelector("a.css-5v1mrc-StyledLink"),
+                img = product.querySelector("img"),
+                title = [...product.querySelectorAll('.css-ak647j-Text-StyledHeading, .css-ijkekv-productNameStyle')].map(text => text.innerText).join(", ");
+			product.querySelectorAll(".css-iu7r0d-Text, .sale.css-gkj6nt-Text").forEach((r, t) => {
+                prices[t] = parseInt(r.innerText.replace("Rek. pris", "").replace(" kr", "").replaceAll(" ", ""), 10)
+            })
             return {
                 price: prices[0],
                 img: img.src,
                 link: anchor.href,
                 reduction: Math.round(100 * (prices[0] / prices[1] - 1)),
                 price_previous: prices[1],
-                store: 'nordiska galleriet #2',
+                store: 'royal design #2',
                 title: title,
                 date: new Date().toISOString().split('T')[0],
                 scraped_from: document.URL
@@ -81,7 +80,7 @@ const bigquery = new BigQuery();
 
      // Go fetch the next page ?page=X+1
       const nextPageNumber = parseInt(url.match(/page=(\d+).+/)[1], 10) + 1;
-       const nextUrl = `https://www.nordiskagalleriet.se/kampanjartiklar?page=${nextPageNumber}#{}`;
+       const nextUrl = `https://royaldesign.se/kampanjer/singles-day?CategoryCode=WEBCAT_2_1&CategoryCode=WEBCAT_2_3&CategoryCode=WEBCAT_1_2&CategoryCode=WEBCAT_5_3&CategoryCode=WEBCAT_5_1&CategoryCode=WEBCAT_3_1&CategoryCode=WEBCAT_2_2&CategoryCode=WEBCAT_1_3&CategoryCode=WEBCAT_1_5&CategoryCode=WEBCAT_1_1&CategoryCode=WEBCAT_5_8&CategoryCode=WEBCAT_1_7&CategoryCode=WEBCAT_5_7&CategoryCode=WEBCAT_3_4&CategoryCode=WEBCAT_7_9&CategoryCode=WEBCAT_6_6&Price.max=107865&Price.min=700&page=${nextPageNumber}&sortBy=price_asc`;
 
       return productsOnPage.concat(await extractProducts(nextUrl))
     }
@@ -92,7 +91,7 @@ const bigquery = new BigQuery();
   const browser = await puppeteer.launch();
 
 
-  const firstUrl = "https://www.nordiskagalleriet.se/kampanjartiklar?page=23#{}";
+  const firstUrl = "https://royaldesign.se/kampanjer/singles-day?CategoryCode=WEBCAT_2_1&CategoryCode=WEBCAT_2_3&CategoryCode=WEBCAT_1_2&CategoryCode=WEBCAT_5_3&CategoryCode=WEBCAT_5_1&CategoryCode=WEBCAT_3_1&CategoryCode=WEBCAT_2_2&CategoryCode=WEBCAT_1_3&CategoryCode=WEBCAT_1_5&CategoryCode=WEBCAT_1_1&CategoryCode=WEBCAT_5_8&CategoryCode=WEBCAT_1_7&CategoryCode=WEBCAT_5_7&CategoryCode=WEBCAT_3_4&CategoryCode=WEBCAT_7_9&CategoryCode=WEBCAT_6_6&Price.max=107865&Price.min=700&page=1&sortBy=price_asc";
   products = await extractProducts(firstUrl);
 
   
@@ -104,3 +103,4 @@ const bigquery = new BigQuery();
 
   await browser.close();
 })();
+

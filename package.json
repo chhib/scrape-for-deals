@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/bigquery": "^6.0.3",
-    "puppeteer": "^19.2.2"
+    "puppeteer": "^19.2.2",
+    "puppeteer-autoscroll-down": "^1.1.1"
   }
 }

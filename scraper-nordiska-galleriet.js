@@ -1,5 +1,6 @@
 import puppeteer from 'puppeteer';
-import {BigQuery} from '@google-cloud/bigquery'
+import {BigQuery} from '@google-cloud/bigquery';
+import { scrollPageToBottom } from 'puppeteer-autoscroll-down';
 const bigquery = new BigQuery();
 
 (async () => {
@@ -29,13 +30,19 @@ const bigquery = new BigQuery();
     try {
         await page.waitForSelector(".PT_Wrapper.col-xs-6.col-sm-4.col-md-4.col-lg-3.gutter-md-T", { timeout:3000 });
         
+        // autoscroll to capture all images.
+        const lastPosition = await scrollPageToBottom(page, {
+        size: 500,
+        delay: 150
+        })
+
         // Extract the results from the page.
         productsOnPage = await page.evaluate(() => {
           return [...document.querySelectorAll(".PT_Wrapper.col-xs-6.col-sm-4.col-md-4.col-lg-3.gutter-md-T")].map(product => { 
         
             const prices = {},
                 anchor = product.querySelector("a"),
-                img = product.querySelector(".PT_Bildruta img"),
+                img = product.querySelector(".PT_Bildruta img:first-child"),
                 title = product.querySelector('.PT_Faktaruta').innerText.replaceAll("\n", " ");
 			product.querySelectorAll(".PT_PriceWrap span.PT_PrisKampanj.font-m.text-red, .PT_PriceWrap span.PT_PrisOrdinarie.font-m.lowlight").forEach(((r, t) => {
                 prices[t] = parseInt(r.innerHTML.replace("rek.pris fr. ", "").replace("fr. ", "").replace(" kr", "").replace(" ", ""), 10)
@@ -46,9 +53,10 @@ const bigquery = new BigQuery();
                 link: anchor.href,
                 reduction: Math.round(100 * (prices[0] / prices[1] - 1)),
                 price_previous: prices[1],
-                store: 'nordiska galleriet',
+                store: 'nordiska galleriet #2',
                 title: title,
-                date: new Date().toISOString().split('T')[0]
+                date: new Date().toISOString().split('T')[0],
+                scraped_from: document.URL
             };
           })
         });

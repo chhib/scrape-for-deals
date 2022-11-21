@@ -92,7 +92,7 @@ const bigquery = new BigQuery();
   const browser = await puppeteer.launch();
 
 
-  const firstUrl = "https://www.nordiskagalleriet.se/kampanjartiklar?page=23#{}";
+  const firstUrl = "https://www.nordiskagalleriet.se/kampanjartiklar?page=1#{}";
   products = await extractProducts(firstUrl);
 
   

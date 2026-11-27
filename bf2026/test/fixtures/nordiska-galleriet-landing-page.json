@@ -1,0 +1,1695 @@
+{
+ "primaryList": {
+  "productGroups": [
+   {
+    "products": [
+     {
+      "key": "10805424__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/946b3f8a-8226-45aa-a006-216f298558c3",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/946b3f8a-8226-45aa-a006-216f298558c3"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#815330",
+        "#e1c3b6"
+       ]
+      },
+      "brand": "NOGA",
+      "title": "Orkesterstolen",
+      "name": "Orkesterstolen Vintage Brown",
+      "series": "Orchestra",
+      "link": "/noga/orkesterstolen",
+      "sellingPrice": {
+       "min": 4208,
+       "max": 4208
+      },
+      "listPrice": {
+       "min": 4950,
+       "max": 4950
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 39,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 80,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 4,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10805424",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/noga/orkesterstolen?variant=10805424",
+        "listPrice": 4950,
+        "sellingPrice": 4208,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 4208,
+          "listPrice": 4950
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 4208,
+          "listPrice": 4950
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10743224r",
+         "label": "10743224r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "b60eb5c7-0394-465e-8c65-7af362d3bcb9",
+        "variantName": "Orkesterstolen Vintage Brown"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 4208,
+        "NG_se_fromPriceRRP": 4950,
+        "rrp_NG_se": 4950
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10743225__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/f91e7d42-a294-4ecb-9a5f-9da7230dd6e9",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/f91e7d42-a294-4ecb-9a5f-9da7230dd6e9"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#594338",
+        "#737476"
+       ]
+      },
+      "brand": "NOGA",
+      "title": "Orkesterstolen",
+      "name": "Orkesterstolen mörkbetsad ek",
+      "series": "Orchestra",
+      "link": "/noga/orkesterstolen",
+      "sellingPrice": {
+       "min": 4888,
+       "max": 4888
+      },
+      "listPrice": {
+       "min": 5750,
+       "max": 5750
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 39,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 80,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 5,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10743225",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/noga/orkesterstolen?variant=10743225",
+        "listPrice": 5750,
+        "sellingPrice": 4888,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 4888,
+          "listPrice": 5750
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 4888,
+          "listPrice": 5750
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10743224r",
+         "label": "10743224r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "b60eb5c7-0394-465e-8c65-7af362d3bcb9",
+        "variantName": "Orkesterstolen mörkbetsad ek"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 4208,
+        "NG_se_fromPriceRRP": 4950,
+        "rrp_NG_se": 5750
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10743224r_PG",
+    "remaining": 0
+   },
+   {
+    "products": [
+     {
+      "key": "10750604__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/d0df3efc-ff4d-4ce6-b5f3-fbf5a1027889",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/d0df3efc-ff4d-4ce6-b5f3-fbf5a1027889"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#663c25",
+        "#ddbba9"
+       ]
+      },
+      "brand": "Artek",
+      "title": "Chair 66 Exclusive Edition stol",
+      "name": "Chair 66 Exclusive Edition walnut stain",
+      "series": "Walnut Stained Exclusive Edition",
+      "link": "/artek/chair-66-exclusive-edition-stol",
+      "sellingPrice": {
+       "min": 5796,
+       "max": 5796
+      },
+      "listPrice": {
+       "min": 6819,
+       "max": 6819
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 42,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 80,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 39,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 5,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10750604",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/artek/chair-66-exclusive-edition-stol?variant=10750604",
+        "listPrice": 6819,
+        "sellingPrice": 5796,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 5796,
+          "listPrice": 6819
+         },
+         {
+          "id": "NG_se_campaign",
+          "sellingPrice": 5796,
+          "listPrice": 6819
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10750604",
+         "label": "10750604"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "fd94f489-fad1-48d6-ac0e-03084b80afca",
+        "variantName": "Chair 66 Exclusive Edition walnut stain"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 5796,
+        "NG_se_fromPrice30Days": 6819,
+        "NG_se_fromPriceRRP": 6819,
+        "cmp30_NG_se": 6819,
+        "rrp_NG_se": 6819
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10750604_PG",
+    "remaining": 0
+   },
+   {
+    "products": [
+     {
+      "key": "10656491__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/cd169ff4-8060-4370-bab3-0810884b2616",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/cd169ff4-8060-4370-bab3-0810884b2616"
+      },
+      "swatch": {
+       "type": "MISSING_COLORS",
+       "colors": []
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Natural Oak, Top Kunis Breccia Stone",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 10441,
+       "max": 10441
+      },
+      "listPrice": {
+       "min": 14915,
+       "max": 14915
+      },
+      "inStock": true,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-30%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656491",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656491",
+        "listPrice": 14915,
+        "sellingPrice": 10441,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 10441,
+          "listPrice": 14915
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 10441,
+          "listPrice": 14915
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Natural Oak, Top Kunis Breccia Stone"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 14915
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10656492__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/1c5aaf7c-b697-4904-b705-4699f983ce50",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/1c5aaf7c-b697-4904-b705-4699f983ce50"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#453429",
+        "#bbb3ab"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Dark Stained Oak, Top Kunis Breccia Stone",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 10442,
+       "max": 10442
+      },
+      "listPrice": {
+       "min": 14915,
+       "max": 14915
+      },
+      "inStock": true,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-30%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656492",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656492",
+        "listPrice": 14915,
+        "sellingPrice": 10442,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 10442,
+          "listPrice": 14915
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 10442,
+          "listPrice": 14915
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Dark Stained Oak, Top Kunis Breccia Stone"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 14915
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10656490__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/5aef0d39-ce20-4dfc-9a33-3fa4f02b1491",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/5aef0d39-ce20-4dfc-9a33-3fa4f02b1491"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#503e33"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Dark Stained Oak, Top Dark Stained Oak",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 9176,
+       "max": 9176
+      },
+      "listPrice": {
+       "min": 10795,
+       "max": 10795
+      },
+      "inStock": true,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656490",
+        "inStock": true,
+        "stockNumber": 2,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656490",
+        "listPrice": 10795,
+        "sellingPrice": 9176,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 2
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 9176,
+          "listPrice": 10795
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 9176,
+          "listPrice": 10795
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Dark Stained Oak, Top Dark Stained Oak"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 10795
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10718141__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/acd18aad-493a-48dd-8404-63f9d33fffa3",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/acd18aad-493a-48dd-8404-63f9d33fffa3"
+      },
+      "swatch": {
+       "type": "MISSING_COLORS",
+       "colors": []
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Walnut, Top Calacatta Viola",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 25113,
+       "max": 25113
+      },
+      "listPrice": {
+       "min": 29545,
+       "max": 29545
+      },
+      "inStock": true,
+      "height": {
+       "amount": 38,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 38.6,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10718141",
+        "inStock": true,
+        "stockNumber": 2,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10718141",
+        "listPrice": 29545,
+        "sellingPrice": 25113,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 2
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 25113,
+          "listPrice": 29545
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 25113,
+          "listPrice": 29545
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Walnut, Top Calacatta Viola"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 29545
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10656493__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/3976f379-ca57-4b5d-9076-a8445a75d0cb",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/3976f379-ca57-4b5d-9076-a8445a75d0cb"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#60432f"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Walnut, Top Walnut",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 12516,
+       "max": 12516
+      },
+      "listPrice": {
+       "min": 15645,
+       "max": 15645
+      },
+      "inStock": true,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-20%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656493",
+        "inStock": true,
+        "stockNumber": 2,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656493",
+        "listPrice": 15645,
+        "sellingPrice": 12516,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 2
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 12516,
+          "listPrice": 15645
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 12516,
+          "listPrice": 15645
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Walnut, Top Walnut"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 15645
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10656494__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/af190daf-f4bc-43ad-b9fb-2e6c8ca8b172",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/af190daf-f4bc-43ad-b9fb-2e6c8ca8b172"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#5e3e27",
+        "#bbb4ac"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Walnut, Top Kunis Breccia Stone",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 15398,
+       "max": 15398
+      },
+      "listPrice": {
+       "min": 18115,
+       "max": 18115
+      },
+      "inStock": true,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-15%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656494",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656494",
+        "listPrice": 18115,
+        "sellingPrice": 15398,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 15398,
+          "listPrice": 18115
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 15398,
+          "listPrice": 18115
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Walnut, Top Kunis Breccia Stone"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 18115
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10656489__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/d5ed7377-671e-4988-a341-963561cbea50",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/d5ed7377-671e-4988-a341-963561cbea50"
+      },
+      "swatch": {
+       "type": "MISSING_COLORS",
+       "colors": []
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Natural Oak, Top Natural Oak",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 8097,
+       "max": 8097
+      },
+      "listPrice": {
+       "min": 10795,
+       "max": 10795
+      },
+      "inStock": false,
+      "height": {
+       "amount": 37.8,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 19.9,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-25%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10656489",
+        "inStock": false,
+        "stockNumber": 0,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10656489",
+        "listPrice": 10795,
+        "sellingPrice": 8097,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 0
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 8097,
+          "listPrice": 10795
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 8097,
+          "listPrice": 10795
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Natural Oak, Top Natural Oak"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 10795
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10718140__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/e154fd5e-72c6-46c3-afa6-5235f94a0b7b",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/e154fd5e-72c6-46c3-afa6-5235f94a0b7b"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#3c2a1e",
+        "#cecbc9"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Dark Stained Oak, Top Calacatta Viola",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 18449,
+       "max": 18449
+      },
+      "listPrice": {
+       "min": 26355,
+       "max": 26355
+      },
+      "inStock": false,
+      "height": {
+       "amount": 38,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 38.6,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-30%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10718140",
+        "inStock": false,
+        "stockNumber": 0,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10718140",
+        "listPrice": 26355,
+        "sellingPrice": 18449,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 0
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 18449,
+          "listPrice": 26355
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 18449,
+          "listPrice": 26355
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Dark Stained Oak, Top Calacatta Viola"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 26355
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10501698__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/a690b8c5-da4e-43f2-a710-c623a68dd358",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/a690b8c5-da4e-43f2-a710-c623a68dd358"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#b0a290"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table Kunis Breccia",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 27746,
+       "max": 27746
+      },
+      "listPrice": {
+       "min": 35315,
+       "max": 35315
+      },
+      "inStock": false,
+      "height": {
+       "amount": 37,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 57.5,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-21%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10501698",
+        "inStock": false,
+        "stockNumber": 0,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10501698",
+        "listPrice": 35315,
+        "sellingPrice": 27746,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 0
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 27746,
+          "listPrice": 35315
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 27746,
+          "listPrice": 35315
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table Kunis Breccia"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 35315
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10718138__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/1a06bba3-d207-4676-ae28-2acbff30f74b",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/1a06bba3-d207-4676-ae28-2acbff30f74b"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#c6c2bf"
+       ]
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table Calacatta Viola",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 33116,
+       "max": 33116
+      },
+      "listPrice": {
+       "min": 41395,
+       "max": 41395
+      },
+      "inStock": false,
+      "height": {
+       "amount": 38,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 52,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-20%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10718138",
+        "inStock": false,
+        "stockNumber": 0,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10718138",
+        "listPrice": 41395,
+        "sellingPrice": 33116,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 0
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 33116,
+          "listPrice": 41395
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 33116,
+          "listPrice": 41395
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table Calacatta Viola"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 41395
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10718139__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/c93a814b-2dfb-48b1-b4de-ccf5f5ed04bd",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/c93a814b-2dfb-48b1-b4de-ccf5f5ed04bd"
+      },
+      "swatch": {
+       "type": "MISSING_COLORS",
+       "colors": []
+      },
+      "brand": "Audo Copenhagen",
+      "title": "Androgyne soffbord",
+      "name": "Androgyne Lounge Table, Base Natural Oak, Top Calacatta Viola",
+      "series": "Androgyne",
+      "link": "/audo-copenhagen/androgyne-soffbord",
+      "sellingPrice": {
+       "min": 21084,
+       "max": 21084
+      },
+      "listPrice": {
+       "min": 26355,
+       "max": 26355
+      },
+      "inStock": false,
+      "height": {
+       "amount": 38,
+       "unit": "cm"
+      },
+      "length": {
+       "amount": 120,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 45,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 38.6,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-20%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10718139",
+        "inStock": false,
+        "stockNumber": 0,
+        "link": "/audo-copenhagen/androgyne-soffbord?variant=10718139",
+        "listPrice": 26355,
+        "sellingPrice": 21084,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 0
+         }
+        ],
+        "prices": [
+         {
+          "id": "NG_se_best",
+          "sellingPrice": 21084,
+          "listPrice": 26355
+         },
+         {
+          "id": "NG_se_pricematch",
+          "sellingPrice": 21084,
+          "listPrice": 26355
+         }
+        ],
+        "custom": {},
+        "typedCustom": {
+         "lengths": {},
+         "json": {},
+         "numbers": {}
+        }
+       }
+      ],
+      "custom": {
+       "productCode": [
+        {
+         "id": "10656493r",
+         "label": "10656493r"
+        }
+       ]
+      },
+      "typedCustom": {
+       "lengths": {},
+       "json": {
+        "v2_productMainImageKey": "24531c7d-368d-4074-8112-3ad583f5c9bd",
+        "variantName": "Androgyne Lounge Table, Base Natural Oak, Top Calacatta Viola"
+       },
+       "numbers": {
+        "NG_se_fromPrice": 8097,
+        "NG_se_fromPriceRRP": 10795,
+        "rrp_NG_se": 26355
+       }
+      },
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10656493r_PG",
+    "remaining": 0
+   }
+  ],
+  "totalHits": 3068,
+  "sort": {
+   "selected": "RELEVANCE"
+  }
+ },
+ "published": true
+}

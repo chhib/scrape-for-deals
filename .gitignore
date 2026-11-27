@@ -106,3 +106,8 @@ dist
 # MacOS
 .DS_Store
 .DS_Store
+# Black Friday 2026 output
+out/
+# The run db is committed; its write-ahead files are not (npm run db:compact folds them in)
+data/bf.db-wal
+data/bf.db-shm

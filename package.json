@@ -4,7 +4,11 @@
   "description": "",
   "main": "scraper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bf2026/index.js",
+    "export": "node bf2026/index.js export",
+    "db:compact": "node bf2026/index.js compact",
+    "rerank": "node bf2026/rerank.js",
+    "test": "node --test \"bf2026/test/*.test.js\""
   },
   "type": "module",
   "author": "",

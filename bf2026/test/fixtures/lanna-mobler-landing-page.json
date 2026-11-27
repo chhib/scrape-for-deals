@@ -1,0 +1,409 @@
+{
+ "primaryList": {
+  "productGroups": [
+   {
+    "products": [
+     {
+      "key": "10706041__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/99213b8a-318d-4024-9e5b-da629e53d9fb",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/99213b8a-318d-4024-9e5b-da629e53d9fb"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#9a7d57",
+        "#8e9293"
+       ]
+      },
+      "brand": "DUX",
+      "title": "DUX Inspiration sängben kubiska 12 cm 2-pack",
+      "name": "DUX Kubiska 12 cm Ek / 2-pack",
+      "series": "Inspiration bed",
+      "link": "/dux/dux-inspiration-sangben-kubiska-12-cm-2-pack",
+      "sellingPrice": {
+       "min": 425,
+       "max": 425
+      },
+      "listPrice": {
+       "min": 2125,
+       "max": 2125
+      },
+      "inStock": true,
+      "height": {
+       "amount": 12,
+       "unit": "cm"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-80%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10706041",
+        "inStock": true,
+        "stockNumber": 1,
+        "link": "/dux/dux-inspiration-sangben-kubiska-12-cm-2-pack?variant=10706041",
+        "listPrice": 2125,
+        "sellingPrice": 425,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 1
+         }
+        ],
+        "prices": []
+       }
+      ],
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10592910r_PG",
+    "remaining": 0
+   },
+   {
+    "products": [
+     {
+      "key": "10592898__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/737974fe-d0c1-4f74-84cc-8d2b22d7de10",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/737974fe-d0c1-4f74-84cc-8d2b22d7de10"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#1d1d1b"
+       ]
+      },
+      "brand": "DUX",
+      "title": "DUX Inspiration sängben koniska svart 2-pack",
+      "name": "Koniska Ben Höjd 12 cm, Svart, 2-pack",
+      "series": "Inspiration bed",
+      "link": "/dux/dux-inspiration-sangben-koniska-svart-2-pack",
+      "sellingPrice": {
+       "min": 213,
+       "max": 213
+      },
+      "listPrice": {
+       "min": 1065,
+       "max": 1065
+      },
+      "inStock": true,
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-80%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10592898",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/dux/dux-inspiration-sangben-koniska-svart-2-pack?variant=10592898",
+        "listPrice": 1065,
+        "sellingPrice": 213,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": []
+       }
+      ],
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10592904r_PG",
+    "remaining": 0
+   },
+   {
+    "products": [
+     {
+      "key": "10688208__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/14e5e4fa-2a21-4699-ba14-53ceb6d72c2a",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/14e5e4fa-2a21-4699-ba14-53ceb6d72c2a"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#7d7d7d"
+       ]
+      },
+      "brand": "String",
+      "title": "String Tallriksställ",
+      "name": "String Tallriksställ Svart - 30 cm/8 Tallrikar",
+      "link": "/string/string-tallriksstall",
+      "sellingPrice": {
+       "min": 116,
+       "max": 116
+      },
+      "listPrice": {
+       "min": 579,
+       "max": 579
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 29,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 7.7,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 2.5,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 0.74,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-80%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10688208",
+        "inStock": true,
+        "stockNumber": 10,
+        "link": "/string/string-tallriksstall?variant=10688208",
+        "listPrice": 579,
+        "sellingPrice": 116,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 10
+         }
+        ],
+        "prices": []
+       }
+      ],
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10688209__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/c85d94b8-246a-46ac-974d-e4ec9583c3b7",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/c85d94b8-246a-46ac-974d-e4ec9583c3b7"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#cec6b6"
+       ]
+      },
+      "brand": "String",
+      "title": "String Tallriksställ",
+      "name": "String Tallriksställ Beige - 30 cm/8 Tallrikar",
+      "link": "/string/string-tallriksstall",
+      "sellingPrice": {
+       "min": 116,
+       "max": 116
+      },
+      "listPrice": {
+       "min": 579,
+       "max": 579
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 29,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 7.7,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 2.5,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 0.74,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-80%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10688209",
+        "inStock": true,
+        "stockNumber": 9,
+        "link": "/string/string-tallriksstall?variant=10688209",
+        "listPrice": 579,
+        "sellingPrice": 116,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 9
+         }
+        ],
+        "prices": []
+       }
+      ],
+      "sponsored": false,
+      "notifyImpression": false
+     },
+     {
+      "key": "10688210__P",
+      "imageInfo": {
+       "effect": "NONE",
+       "images": [
+        {
+         "sources": [
+          {
+           "url": "https://noga.cdn-norce.tech/3e0e7e2d-67a8-4558-8284-a29a37468bb8",
+           "width": 2000,
+           "height": 2000
+          }
+         ]
+        }
+       ],
+       "thumbnail": "https://noga.cdn-norce.tech/3e0e7e2d-67a8-4558-8284-a29a37468bb8"
+      },
+      "swatch": {
+       "type": "COLORS",
+       "colors": [
+        "#cbcbcb"
+       ]
+      },
+      "brand": "String",
+      "title": "String Tallriksställ",
+      "name": "String Tallriksställ Grå - 30 cm/8 Tallrikar",
+      "link": "/string/string-tallriksstall",
+      "sellingPrice": {
+       "min": 116,
+       "max": 116
+      },
+      "listPrice": {
+       "min": 579,
+       "max": 579
+      },
+      "inStock": true,
+      "depth": {
+       "amount": 29,
+       "unit": "cm"
+      },
+      "height": {
+       "amount": 7.7,
+       "unit": "cm"
+      },
+      "width": {
+       "amount": 2.5,
+       "unit": "cm"
+      },
+      "weight": {
+       "amount": 0.74,
+       "unit": "kg"
+      },
+      "badges": {
+       "primary": [
+        {
+         "theme": "DISCOUNT",
+         "label": "-80%"
+        }
+       ],
+       "secondary": []
+      },
+      "variants": [
+       {
+        "key": "10688210",
+        "inStock": true,
+        "stockNumber": 1,
+        "link": "/string/string-tallriksstall?variant=10688210",
+        "listPrice": 579,
+        "sellingPrice": 116,
+        "availability": [
+         {
+          "channel": "ONLINE",
+          "stockNumber": 1
+         }
+        ],
+        "prices": []
+       }
+      ],
+      "sponsored": false,
+      "notifyImpression": false
+     }
+    ],
+    "key": "10688210r_PG",
+    "remaining": 0
+   }
+  ],
+  "totalHits": 8460,
+  "sort": {
+   "selected": "DISCOUNT"
+  }
+ },
+ "published": true
+}
